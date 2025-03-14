@@ -2,3 +2,5 @@
 #print function prints the Hello plus the input from the user 
 print("Hello " + input("What is your name? \n"))
 
+#charater size
+print(len(input("What is your name?")))
